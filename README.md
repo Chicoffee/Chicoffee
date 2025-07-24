@@ -1,6 +1,6 @@
 <h1 align="center">John Lenard 🧑‍💻</h1>
 
-<about me>👾 About Me</about me>
+👾 About Me
 
 - 🎓 I'm currently studying **Bachelor of Science in Information Systems**.
 - 🎮 Gamer on the side.
