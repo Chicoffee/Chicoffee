@@ -6,8 +6,7 @@
 - 🎮 Gamer on the side.
 - 🌟 Never-ending improvement.
 - ✨ I enjoy building simple and complex projects.
-- 🎯 Aspiring **Full Stack Developer** and **Game Developer** committed on delivering the best out of my skills and passionate in providing an efficient and creative user-experience albeit web applications and games, turning my ideas into codes and programs.
-
+- 🎯 Aspiring **Full-Stack and Game Developer**, committed to delivering the best of my skills and passionate about providing efficient and creative user experiences—whether in web applications or games. I enjoy turning ideas into code and transforming concepts into functional programs.
 ## 🤖 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
